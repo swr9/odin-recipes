@@ -1,0 +1,23 @@
+* {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top
+}
+.recipe-content {
+    background-color: ;
+    display: inline-block;
+    padding-left: 25px;
+    vertical-align: top;
+}
+
+a {
+    display: inline-block;
+    padding-left: 500px;
+}
